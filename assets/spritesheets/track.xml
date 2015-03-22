@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a7ea31fbc3b6c1c962752ab4b8c99ec7:db969daa0742cab867d97c417916dfab:eb6f637a611898888e1f15e5f9d013ca$ -->
+<TextureAtlas imagePath="track.png">
+    <SubTexture name="back-button" x="285" y="661" width="128" height="128"/>
+    <SubTexture name="background" x="3" y="3" width="512" height="512"/>
+    <SubTexture name="cart-title" x="285" y="591" width="203" height="66"/>
+    <SubTexture name="cart" x="777" y="1376" width="89" height="77" frameX="0" frameY="-12" frameWidth="89" frameHeight="89"/>
+    <SubTexture name="cartback" x="417" y="761" width="85" height="9" frameX="-5" frameY="-1" frameWidth="91" frameHeight="87"/>
+    <SubTexture name="column-left" x="3" y="724" width="256" height="1024"/>
+    <SubTexture name="column-middle" x="822" y="84" width="128" height="1024"/>
+    <SubTexture name="column-narrow" x="519" y="3" width="299" height="703"/>
+    <SubTexture name="column-right" x="517" y="710" width="256" height="1024"/>
+    <SubTexture name="credits-button" x="777" y="1112" width="128" height="128"/>
+    <SubTexture name="dialog" x="870" y="1429" width="72" height="74"/>
+    <SubTexture name="doge-title" x="285" y="519" width="207" height="68"/>
+    <SubTexture name="doge" x="954" y="185" width="50" height="91"/>
+    <SubTexture name="dogecoin-icon" x="954" y="115" width="66" height="66" frameX="-7" frameY="-7" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="dogecoin/dogecoin1" x="1008" y="185" width="6" height="54" frameX="-29" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin10" x="954" y="280" width="50" height="52" frameX="-5" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin11" x="954" y="392" width="48" height="52" frameX="-4" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin12" x="954" y="504" width="42" height="54" frameX="-7" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin13" x="954" y="620" width="36" height="54" frameX="-9" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin14" x="954" y="736" width="28" height="54" frameX="-14" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin15" x="1000" y="504" width="16" height="54" frameX="-22" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin2" x="1000" y="562" width="16" height="54" frameX="-26" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin3" x="986" y="736" width="28" height="54" frameX="-21" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin4" x="954" y="678" width="36" height="54" frameX="-18" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin5" x="954" y="562" width="42" height="54" frameX="-15" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin6" x="954" y="448" width="48" height="52" frameX="-11" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin7" x="954" y="336" width="50" height="52" frameX="-9" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin8" x="962" y="3" width="52" height="52" frameX="-7" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="dogecoin/dogecoin9" x="962" y="59" width="52" height="52" frameX="-5" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="enemycart" x="909" y="1338" width="89" height="87" frameX="-1" frameY="0" frameWidth="91" frameHeight="87"/>
+    <SubTexture name="loom-logo" x="3" y="519" width="278" height="201" frameX="-11" frameY="-6" frameWidth="300" frameHeight="213"/>
+    <SubTexture name="pause-button" x="417" y="661" width="96" height="96"/>
+    <SubTexture name="pickaxe" x="822" y="3" width="136" height="77"/>
+    <SubTexture name="play-button" x="777" y="1244" width="128" height="128"/>
+    <SubTexture name="rail" x="1006" y="436" width="14" height="10"/>
+    <SubTexture name="slat" x="1006" y="392" width="15" height="40"/>
+    <SubTexture name="tap-down" x="909" y="1236" width="103" height="98" frameX="0" frameY="-6" frameWidth="107" frameHeight="120"/>
+    <SubTexture name="tap-to-jump" x="263" y="793" width="249" height="116"/>
+    <SubTexture name="tap-up" x="909" y="1112" width="107" height="120"/>
+</TextureAtlas>

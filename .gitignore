@@ -1,0 +1,7 @@
+logs/
+bin/
+build/
+bin-release/
+
+.project
+.DS_Store
